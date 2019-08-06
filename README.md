@@ -1,2 +1,2 @@
 # algoritmos
-Algoritmos
+Materiais utilizados na disciplina de Algoritmos
